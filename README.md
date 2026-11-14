@@ -66,9 +66,9 @@ Bu tool **heç bir xarici kitabxana tələb etmir** (yalnız Python-un daxili mo
 Terminalı açın və aşağıdakı əmrlə skripti birbaşa GitHub-dan çəkin:
 
 
-curl -O https://github.com/ahmadovmammad33-ux/Keyhole-403/blob/main/keyhole403.py
+curl -O https://raw.githubusercontent.com/ahmadovmammad33-ux/Keyhole-403/main/keyhole403.py
 
-(Əgər curl yoxdursa, wget https://github.com/ahmadovmammad33-ux/Keyhole-403/blob/main/keyhole403.py istifadə edə bilərsiniz).
+(Əgər curl yoxdursa, wget https://raw.githubusercontent.com/ahmadovmammad33-ux/Keyhole-403/main/keyhole403.py istifadə edə bilərsiniz).
 
 Yükləndikdən sonra birbaşa işə salın:
 
@@ -78,7 +78,7 @@ python3 keyhole403.py
 
 Windows istifadəçiləri aşağıdakı əmri PowerShell-də işə salaraq skripti yükləyə bilərlər:
 
-Invoke-WebRequest -Uri "(https://github.com/ahmadovmammad33-ux/Keyhole-403/blob/main/keyhole403.py)" -OutFile "keyhole403.py"
+Invoke-WebRequest -Uri "(https://raw.githubusercontent.com/ahmadovmammad33-ux/Keyhole-403/main/keyhole403.py)" -OutFile "keyhole403.py"
 
 Yükləndikdən sonra işə salın:
 
