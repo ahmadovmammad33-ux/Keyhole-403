@@ -87,7 +87,7 @@ python keyhole403.py
 ### 🌐 Üsul 3: Brauzer ilə Manuel Yükləmə
 Əgər əmrlərlə işləmək istəmirsinizsə, sadəcə aşağıdakı birbaşa linkə daxil olun, səhifədəki kodu kopyalayıb keyhole403.py adlı fayl yaradıb içinə yapışdırın:
 
-🔗 keyhole403.py - Birbaşa Xam (Raw) Link
+🔗 keyhole403.py -    https://raw.githubusercontent.com/ahmadovmammad33-ux/Keyhole-403/main/keyhole403.py
 
 
 ### 📖 İstifadə Qaydası
