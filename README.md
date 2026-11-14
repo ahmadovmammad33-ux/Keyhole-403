@@ -78,7 +78,7 @@ python3 keyhole403.py
 
 Windows istifadəçiləri aşağıdakı əmri PowerShell-də işə salaraq skripti yükləyə bilərlər:
 
-Invoke-WebRequest -Uri "(https://raw.githubusercontent.com/ahmadovmammad33-ux/Keyhole-403/main/keyhole403.py)" -OutFile "keyhole403.py"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ahmadovmammad33-ux/Keyhole-403/main/keyhole403.py" -OutFile "keyhole403.py"
 
 Yükləndikdən sonra işə salın:
 
